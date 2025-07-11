@@ -24,7 +24,7 @@ This is a realtime file-sharing web application built using HTML, CSS, JavaScrip
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone //
+   git clone git@github.com:sudama-bera-3/shareEazy
    ```
 
 2. Navigate to the project directory:
